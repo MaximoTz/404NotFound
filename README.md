@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://404notfound-error.netlify.app/">
       Challenge completed
     </a>
   </h3>
@@ -16,8 +16,9 @@
 
 ![screenshot](screenshot/404%20Not%20Found.png)
 
-- Where can I see your demo?
-  If you would like to see the demo or the complete page, click on the following link: 
+- Where can I see your demo? <br>
+  If you would like to see the demo or the complete page, click on the following link: <br>
+  <a href="https://404notfound-error.netlify.app/">Page 404 Not Found</a>
 
 
 - What have you learned/improved?
